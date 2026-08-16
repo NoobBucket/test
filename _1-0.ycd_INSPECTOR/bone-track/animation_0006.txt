@@ -1,0 +1,36 @@
+============================================================
+ANIMATION #6
+============================================================
+
+Animation part: 1 / 1
+Total BoneIds in animation: 4
+Entries in this file: 4
+
+Animation metadata:
+    Hash = prop_npc_phone-0
+    Unknown10 = 16
+    FrameCount = 241
+    SequenceFrameLimit = 255
+    Duration = 8
+
+BONE/TRACK ENTRIES
+------------------------------------------------------------
+Animation #6 / Bone #0
+    BoneId = 0
+    Track  = 0
+    Unk0   = 0
+
+Animation #6 / Bone #1
+    BoneId = 0
+    Track  = 1
+    Unk0   = 1
+
+Animation #6 / Bone #2
+    BoneId = 0
+    Track  = 5
+    Unk0   = 0
+
+Animation #6 / Bone #3
+    BoneId = 0
+    Track  = 6
+    Unk0   = 1

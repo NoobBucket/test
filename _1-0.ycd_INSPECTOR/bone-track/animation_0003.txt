@@ -1,0 +1,346 @@
+============================================================
+ANIMATION #3
+============================================================
+
+Animation part: 1 / 1
+Total BoneIds in animation: 66
+Entries in this file: 66
+
+Animation metadata:
+    Hash = p_winch_long_s-0
+    Unknown10 = 16
+    FrameCount = 241
+    SequenceFrameLimit = 255
+    Duration = 8
+
+BONE/TRACK ENTRIES
+------------------------------------------------------------
+Animation #3 / Bone #0
+    BoneId = 0
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #1
+    BoneId = 29753
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #2
+    BoneId = 29754
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #3
+    BoneId = 30408
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #4
+    BoneId = 30409
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #5
+    BoneId = 30410
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #6
+    BoneId = 30411
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #7
+    BoneId = 30412
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #8
+    BoneId = 30413
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #9
+    BoneId = 30414
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #10
+    BoneId = 30415
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #11
+    BoneId = 30416
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #12
+    BoneId = 30417
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #13
+    BoneId = 30424
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #14
+    BoneId = 30425
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #15
+    BoneId = 30426
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #16
+    BoneId = 30427
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #17
+    BoneId = 30428
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #18
+    BoneId = 30429
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #19
+    BoneId = 30430
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #20
+    BoneId = 30431
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #21
+    BoneId = 30432
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #22
+    BoneId = 34826
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #23
+    BoneId = 34827
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #24
+    BoneId = 34828
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #25
+    BoneId = 34829
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #26
+    BoneId = 34830
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #27
+    BoneId = 34831
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #28
+    BoneId = 34832
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #29
+    BoneId = 34833
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #30
+    BoneId = 34834
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #31
+    BoneId = 48650
+    Track  = 0
+    Unk0   = 0
+
+Animation #3 / Bone #32
+    BoneId = 0
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #33
+    BoneId = 29753
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #34
+    BoneId = 29754
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #35
+    BoneId = 30408
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #36
+    BoneId = 30409
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #37
+    BoneId = 30410
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #38
+    BoneId = 30411
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #39
+    BoneId = 30412
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #40
+    BoneId = 30413
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #41
+    BoneId = 30414
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #42
+    BoneId = 30415
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #43
+    BoneId = 30416
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #44
+    BoneId = 30417
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #45
+    BoneId = 30424
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #46
+    BoneId = 30425
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #47
+    BoneId = 30426
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #48
+    BoneId = 30427
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #49
+    BoneId = 30428
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #50
+    BoneId = 30429
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #51
+    BoneId = 30430
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #52
+    BoneId = 30431
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #53
+    BoneId = 30432
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #54
+    BoneId = 34826
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #55
+    BoneId = 34827
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #56
+    BoneId = 34828
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #57
+    BoneId = 34829
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #58
+    BoneId = 34830
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #59
+    BoneId = 34831
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #60
+    BoneId = 34832
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #61
+    BoneId = 34833
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #62
+    BoneId = 34834
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #63
+    BoneId = 48650
+    Track  = 1
+    Unk0   = 1
+
+Animation #3 / Bone #64
+    BoneId = 0
+    Track  = 5
+    Unk0   = 0
+
+Animation #3 / Bone #65
+    BoneId = 0
+    Track  = 6
+    Unk0   = 1

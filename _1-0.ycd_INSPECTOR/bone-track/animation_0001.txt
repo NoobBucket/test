@@ -1,0 +1,166 @@
+============================================================
+ANIMATION #1
+============================================================
+
+Animation part: 1 / 1
+Total BoneIds in animation: 30
+Entries in this file: 30
+
+Animation metadata:
+    Hash = bison2-0
+    Unknown10 = 16
+    FrameCount = 241
+    SequenceFrameLimit = 255
+    Duration = 8
+
+BONE/TRACK ENTRIES
+------------------------------------------------------------
+Animation #1 / Bone #0
+    BoneId = 0
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #1
+    BoneId = 4186
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #2
+    BoneId = 26398
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #3
+    BoneId = 26418
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #4
+    BoneId = 26734
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #5
+    BoneId = 26746
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #6
+    BoneId = 27902
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #7
+    BoneId = 27922
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #8
+    BoneId = 28174
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #9
+    BoneId = 28186
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #10
+    BoneId = 42990
+    Track  = 0
+    Unk0   = 0
+
+Animation #1 / Bone #11
+    BoneId = 0
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #12
+    BoneId = 4186
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #13
+    BoneId = 5577
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #14
+    BoneId = 6505
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #15
+    BoneId = 22821
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #16
+    BoneId = 26398
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #17
+    BoneId = 26418
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #18
+    BoneId = 27902
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #19
+    BoneId = 27922
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #20
+    BoneId = 31608
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #21
+    BoneId = 35230
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #22
+    BoneId = 35346
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #23
+    BoneId = 42990
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #24
+    BoneId = 60963
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #25
+    BoneId = 61071
+    Track  = 1
+    Unk0   = 1
+
+Animation #1 / Bone #26
+    BoneId = 0
+    Track  = 5
+    Unk0   = 0
+
+Animation #1 / Bone #27
+    BoneId = 0
+    Track  = 6
+    Unk0   = 1
+
+Animation #1 / Bone #28
+    BoneId = 0
+    Track  = 134
+    Unk0   = 2
+
+Animation #1 / Bone #29
+    BoneId = 0
+    Track  = 137
+    Unk0   = 2

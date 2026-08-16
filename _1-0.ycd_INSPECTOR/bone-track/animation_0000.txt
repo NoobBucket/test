@@ -1,0 +1,81 @@
+============================================================
+ANIMATION #0
+============================================================
+
+Animation part: 1 / 1
+Total BoneIds in animation: 13
+Entries in this file: 13
+
+Animation metadata:
+    Hash = exportcamera-0
+    Unknown10 = 0
+    FrameCount = 241
+    SequenceFrameLimit = 63
+    Duration = 8
+
+BONE/TRACK ENTRIES
+------------------------------------------------------------
+Animation #0 / Bone #0
+    BoneId = 0
+    Track  = 7
+    Unk0   = 0
+
+Animation #0 / Bone #1
+    BoneId = 0
+    Track  = 8
+    Unk0   = 1
+
+Animation #0 / Bone #2
+    BoneId = 0
+    Track  = 27
+    Unk0   = 2
+
+Animation #0 / Bone #3
+    BoneId = 0
+    Track  = 28
+    Unk0   = 0
+
+Animation #0 / Bone #4
+    BoneId = 0
+    Track  = 36
+    Unk0   = 2
+
+Animation #0 / Bone #5
+    BoneId = 0
+    Track  = 40
+    Unk0   = 2
+
+Animation #0 / Bone #6
+    BoneId = 0
+    Track  = 43
+    Unk0   = 2
+
+Animation #0 / Bone #7
+    BoneId = 0
+    Track  = 44
+    Unk0   = 2
+
+Animation #0 / Bone #8
+    BoneId = 0
+    Track  = 45
+    Unk0   = 2
+
+Animation #0 / Bone #9
+    BoneId = 0
+    Track  = 46
+    Unk0   = 2
+
+Animation #0 / Bone #10
+    BoneId = 0
+    Track  = 49
+    Unk0   = 2
+
+Animation #0 / Bone #11
+    BoneId = 0
+    Track  = 51
+    Unk0   = 2
+
+Animation #0 / Bone #12
+    BoneId = 0
+    Track  = 52
+    Unk0   = 2

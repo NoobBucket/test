@@ -1,0 +1,52 @@
+============================================================
+YCD BONE/TRACK FILE INDEX
+============================================================
+
+Source YCD: fam_3_mcs_1-0.ycd
+Animations: 9
+Maximum entries per file: 500
+
+Animation #0
+    BoneIds: 13
+    Files: 1
+    File: animation_0000.txt
+
+Animation #1
+    BoneIds: 30
+    Files: 1
+    File: animation_0001.txt
+
+Animation #2
+    BoneIds: 170
+    Files: 1
+    File: animation_0002.txt
+
+Animation #3
+    BoneIds: 66
+    Files: 1
+    File: animation_0003.txt
+
+Animation #4
+    BoneIds: 170
+    Files: 1
+    File: animation_0004.txt
+
+Animation #5
+    BoneIds: 171
+    Files: 1
+    File: animation_0005.txt
+
+Animation #6
+    BoneIds: 4
+    Files: 1
+    File: animation_0006.txt
+
+Animation #7
+    BoneIds: 170
+    Files: 1
+    File: animation_0007.txt
+
+Animation #8
+    BoneIds: 12
+    Files: 1
+    File: animation_0008.txt

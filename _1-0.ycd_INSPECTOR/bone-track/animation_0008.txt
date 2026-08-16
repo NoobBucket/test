@@ -1,0 +1,76 @@
+============================================================
+ANIMATION #8
+============================================================
+
+Animation part: 1 / 1
+Total BoneIds in animation: 12
+Entries in this file: 12
+
+Animation metadata:
+    Hash = p_bison_winch_s-0
+    Unknown10 = 16
+    FrameCount = 241
+    SequenceFrameLimit = 255
+    Duration = 8
+
+BONE/TRACK ENTRIES
+------------------------------------------------------------
+Animation #8 / Bone #0
+    BoneId = 0
+    Track  = 0
+    Unk0   = 0
+
+Animation #8 / Bone #1
+    BoneId = 5975
+    Track  = 0
+    Unk0   = 0
+
+Animation #8 / Bone #2
+    BoneId = 42667
+    Track  = 0
+    Unk0   = 0
+
+Animation #8 / Bone #3
+    BoneId = 50037
+    Track  = 0
+    Unk0   = 0
+
+Animation #8 / Bone #4
+    BoneId = 54404
+    Track  = 0
+    Unk0   = 0
+
+Animation #8 / Bone #5
+    BoneId = 0
+    Track  = 1
+    Unk0   = 1
+
+Animation #8 / Bone #6
+    BoneId = 5975
+    Track  = 1
+    Unk0   = 1
+
+Animation #8 / Bone #7
+    BoneId = 42667
+    Track  = 1
+    Unk0   = 1
+
+Animation #8 / Bone #8
+    BoneId = 50037
+    Track  = 1
+    Unk0   = 1
+
+Animation #8 / Bone #9
+    BoneId = 54404
+    Track  = 1
+    Unk0   = 1
+
+Animation #8 / Bone #10
+    BoneId = 0
+    Track  = 5
+    Unk0   = 0
+
+Animation #8 / Bone #11
+    BoneId = 0
+    Track  = 6
+    Unk0   = 1
