@@ -1,0 +1,3213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rage__cutfCutsceneFile2>
+ <fTotalDuration value="14.8" />
+ <cFaceDir>x:/gta5/assets_ng\cuts\FAM_3_MCS_1_B\faces</cFaceDir>
+ <iCutsceneFlags>272646656 0 0 0</iCutsceneFlags>
+ <vOffset x="-1026.69" y="643.12" z="140.28" />
+ <fRotation value="0" />
+ <vTriggerOffset x="0" y="0" z="0" />
+ <pCutsceneObjects>
+  <Item type="rage__cutfAssetManagerObject">
+   <iObjectId value="0" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfAnimationManagerObject">
+   <iObjectId value="1" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfCameraObject">
+   <iObjectId value="2" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>exportcamera</cName>
+   <AnimStreamingBase value="-175977911" />
+   <fNearDrawDistance value="0.1" />
+   <fFarDrawDistance value="4000000" />
+  </Item>
+  <Item type="rage__cutfAudioObject">
+   <iObjectId value="3" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM_3_MCS_1_B.WAV</cName>
+   <fOffset value="47.9333344" />
+  </Item>
+  <Item type="rage__cutfVehicleModelObject">
+   <iObjectId value="4" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_4DBCC0E8</cName>
+   <StreamingName>bison2</StreamingName>
+   <AnimStreamingBase value="-1700689167" />
+   <cAnimExportCtrlSpecFile>hash_1D456D67</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile />
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>hash_DAC7A261</cHandle>
+   <typeFile />
+   <cRemoveBoneNameList />
+   <bCanApplyRealDamage value="false" />
+  </Item>
+  <Item type="rage__cutfPedModelObject">
+   <iObjectId value="5" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_07E9E332</cName>
+   <StreamingName>cs_natalia</StreamingName>
+   <AnimStreamingBase value="-495681906" />
+   <cAnimExportCtrlSpecFile>hash_CF5A4BD1</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile>hash_317D3DC1</cFaceExportCtrlSpecFile>
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>hash_4A104D04</cHandle>
+   <typeFile />
+   <overrideFaceAnimationFilename />
+   <bFoundFaceAnimation value="true" />
+   <bFaceAndBodyAreMerged value="true" />
+   <bOverrideFaceAnimation value="false" />
+   <faceAnimationNodeName>hash_D2E178CF</faceAnimationNodeName>
+   <faceAttributesFilename>hash_B788A3B5</faceAttributesFilename>
+  </Item>
+  <Item type="rage__cutfPedModelObject">
+   <iObjectId value="6" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_01291988</cName>
+   <StreamingName>cs_tenniscoach</StreamingName>
+   <AnimStreamingBase value="-70412878" />
+   <cAnimExportCtrlSpecFile>hash_CF5A4BD1</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile>hash_317D3DC1</cFaceExportCtrlSpecFile>
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>hash_9347C4C8</cHandle>
+   <typeFile />
+   <overrideFaceAnimationFilename />
+   <bFoundFaceAnimation value="true" />
+   <bFaceAndBodyAreMerged value="true" />
+   <bOverrideFaceAnimation value="false" />
+   <faceAnimationNodeName>hash_8DEF96F4</faceAnimationNodeName>
+   <faceAttributesFilename>hash_DD672631</faceAttributesFilename>
+  </Item>
+  <Item type="rage__cutfPedModelObject">
+   <iObjectId value="7" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_0D4EFBB2</cName>
+   <StreamingName>player_one</StreamingName>
+   <AnimStreamingBase value="-512004055" />
+   <cAnimExportCtrlSpecFile>hash_CF5A4BD1</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile>hash_317D3DC1</cFaceExportCtrlSpecFile>
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>franklin</cHandle>
+   <typeFile />
+   <overrideFaceAnimationFilename />
+   <bFoundFaceAnimation value="true" />
+   <bFaceAndBodyAreMerged value="true" />
+   <bOverrideFaceAnimation value="false" />
+   <faceAnimationNodeName>hash_0E034001</faceAnimationNodeName>
+   <faceAttributesFilename>hash_5811EF10</faceAttributesFilename>
+  </Item>
+  <Item type="rage__cutfPedModelObject">
+   <iObjectId value="8" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_2FCEEE56</cName>
+   <StreamingName>player_zero</StreamingName>
+   <AnimStreamingBase value="-2022433953" />
+   <cAnimExportCtrlSpecFile>hash_CF5A4BD1</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile>hash_B8D3854C</cFaceExportCtrlSpecFile>
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>michael</cHandle>
+   <typeFile />
+   <overrideFaceAnimationFilename />
+   <bFoundFaceAnimation value="true" />
+   <bFaceAndBodyAreMerged value="true" />
+   <bOverrideFaceAnimation value="false" />
+   <faceAnimationNodeName>hash_E6C6165E</faceAnimationNodeName>
+   <faceAttributesFilename>hash_7B132A98</faceAttributesFilename>
+  </Item>
+  <Item type="rage__cutfBlockingBoundsObject">
+   <iObjectId value="9" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_FA6E25B3</cName>
+   <vCorners>
+    58.3638077, -16.6694736, -19.2538338
+    59.60781, 49.3188, -19.2538338
+    -40.3744278, 51.20365, -19.2538338
+    -41.61843, -14.7846241, -19.2538338
+   </vCorners>
+   <fHeight value="87.4" />
+  </Item>
+  <Item type="rage__cutfPropModelObject">
+   <iObjectId value="10" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_4B63A47B</cName>
+   <StreamingName>prop_npc_phone</StreamingName>
+   <AnimStreamingBase value="-375581138" />
+   <cAnimExportCtrlSpecFile>hash_7097694E</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile />
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle>hash_5D038C66</cHandle>
+   <typeFile>lev_des</typeFile>
+  </Item>
+  <Item type="rage__cutfPropModelObject">
+   <iObjectId value="11" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_BEA65A2A</cName>
+   <StreamingName>p_winch_long_s</StreamingName>
+   <AnimStreamingBase value="690037543" />
+   <cAnimExportCtrlSpecFile>hash_7097694E</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile />
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle />
+   <typeFile>cutsobjects</typeFile>
+  </Item>
+  <Item type="rage__cutfOverlayObject">
+   <iObjectId value="12" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM3_01_NCallingMartin:Overlay</cName>
+   <cRenderTargetName>npcphone</cRenderTargetName>
+   <iOverlayType value="0" />
+   <modelHashName>prop_npc_phone</modelHashName>
+  </Item>
+  <Item type="rage__cutfOverlayObject">
+   <iObjectId value="13" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM3_02_NCallingMartin:Overlay</cName>
+   <cRenderTargetName>npcphone</cRenderTargetName>
+   <iOverlayType value="0" />
+   <modelHashName>prop_npc_phone</modelHashName>
+  </Item>
+  <Item type="rage__cutfOverlayObject">
+   <iObjectId value="14" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM3_03_NCallingMartin:Overlay</cName>
+   <cRenderTargetName>npcphone</cRenderTargetName>
+   <iOverlayType value="0" />
+   <modelHashName>prop_npc_phone</modelHashName>
+  </Item>
+  <Item type="rage__cutfOverlayObject">
+   <iObjectId value="15" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM3_04_NCallingMartin:Overlay</cName>
+   <cRenderTargetName>npcphone</cRenderTargetName>
+   <iOverlayType value="0" />
+   <modelHashName>prop_npc_phone</modelHashName>
+  </Item>
+  <Item type="rage__cutfOverlayObject">
+   <iObjectId value="16" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>FAM3_05_NCallingMartin:Overlay</cName>
+   <cRenderTargetName>npcphone</cRenderTargetName>
+   <iOverlayType value="0" />
+   <modelHashName>prop_npc_phone</modelHashName>
+  </Item>
+  <Item type="rage__cutfPropModelObject">
+   <iObjectId value="17" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_BE97AD68</cName>
+   <StreamingName>p_bison_winch_s</StreamingName>
+   <AnimStreamingBase value="2142337267" />
+   <cAnimExportCtrlSpecFile>hash_7097694E</cAnimExportCtrlSpecFile>
+   <cFaceExportCtrlSpecFile />
+   <cAnimCompressionFile>hash_47FB8D46</cAnimCompressionFile>
+   <cHandle />
+   <typeFile>cutsobjects</typeFile>
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="18" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_8BE6C13B</cName>
+   <vDirection x="0.161702" y="0.981527" z="-0.102259" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="28.5220947" y="-3.619019" z="0.410965" />
+   <fIntensity value="0.3" />
+   <fFallOff value="3.599993" />
+   <fConeAngle value="27.8" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="513" />
+   <uHourFlags value="1048512" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="19" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_88B0BACF</cName>
+   <vDirection x="-0.581506" y="0.813265" z="-0.021214" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="13.2631226" y="10.9751587" z="16.69133" />
+   <fIntensity value="0.2" />
+   <fFallOff value="4.199994" />
+   <fConeAngle value="31.3" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="513" />
+   <uHourFlags value="1048512" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="20" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_AECD349E</cName>
+   <vDirection x="0.161702" y="0.981527" z="-0.102259" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="28.5220947" y="-3.619019" z="0.410965" />
+   <fIntensity value="0.3" />
+   <fFallOff value="3.599993" />
+   <fConeAngle value="27.8" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="257" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="21" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_BC83D00B</cName>
+   <vDirection x="-0.581512" y="0.813261" z="-0.021214" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="13.2631226" y="10.9751587" z="16.69133" />
+   <fIntensity value="0.1" />
+   <fFallOff value="4.199994" />
+   <fConeAngle value="31.3" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="257" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="22" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_1C4CF2E6</cName>
+   <vDirection x="0.390329" y="-0.920585" z="0.012901" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="21.524353" y="5.6474" z="16.69133" />
+   <fIntensity value="0.15" />
+   <fFallOff value="4.199994" />
+   <fConeAngle value="31.3" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="4259841" />
+   <uHourFlags value="16777215" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="23" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_C074CD65</cName>
+   <vDirection x="-0.974614" y="0.223892" z="0" />
+   <vColour x="0.756863" y="0.854902" z="1" />
+   <vPosition x="13.9532471" y="11.4890747" z="17.230072" />
+   <fIntensity value="0.2" />
+   <fFallOff value="3" />
+   <fConeAngle value="30" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="4259841" />
+   <uHourFlags value="16777215" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="24" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_0C1ECA0D</cName>
+   <vDirection x="0.431406" y="-0.833174" z="-0.345993" />
+   <vColour x="0.756863" y="0.854902" z="1" />
+   <vPosition x="11.8249512" y="13.2318726" z="17.3756714" />
+   <fIntensity value="0.7" />
+   <fFallOff value="3" />
+   <fConeAngle value="40" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="512" />
+   <uHourFlags value="1048512" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="25" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_7CD8A6BF</cName>
+   <vDirection x="-0.17609" y="0.981985" z="0.068542" />
+   <vColour x="0.756863" y="0.854902" z="1" />
+   <vPosition x="12.8899536" y="9.914551" z="16.9199982" />
+   <fIntensity value="0.5" />
+   <fFallOff value="3" />
+   <fConeAngle value="30" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="512" />
+   <uHourFlags value="1048512" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="26" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_94F9AD67</cName>
+   <vDirection x="0.431406" y="-0.833174" z="-0.345993" />
+   <vColour x="0.756863" y="0.854902" z="1" />
+   <vPosition x="11.8249512" y="13.2318726" z="17.3756714" />
+   <fIntensity value="0.3" />
+   <fFallOff value="3" />
+   <fConeAngle value="40" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="256" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="27" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_B9C0F6F5</cName>
+   <vDirection x="-0.17609" y="0.981985" z="0.068542" />
+   <vColour x="0.756863" y="0.854902" z="1" />
+   <vPosition x="12.8899536" y="9.914551" z="16.9199982" />
+   <fIntensity value="0.25" />
+   <fFallOff value="3" />
+   <fConeAngle value="30" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="128" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="28" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_42A1D3A0</cName>
+   <vDirection x="0.161702" y="0.981527" z="-0.102259" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="28.5220947" y="-3.619019" z="0.410965" />
+   <fIntensity value="0.3" />
+   <fFallOff value="3.599993" />
+   <fConeAngle value="27.8" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="1" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+  <Item type="rage__cutfLightObject">
+   <iObjectId value="29" />
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_386BBF34</cName>
+   <vDirection x="-0.58152" y="0.813255" z="-0.021214" />
+   <vColour x="0.827451" y="0.898039" z="1" />
+   <vPosition x="13.2631226" y="10.9751587" z="16.69133" />
+   <fIntensity value="0.2" />
+   <fFallOff value="4.199994" />
+   <fConeAngle value="31.3" />
+   <fVolumeIntensity value="1" />
+   <fVolumeSizeScale value="1" />
+   <fCoronaSize value="0" />
+   <fCoronaIntensity value="1" />
+   <fCoronaZBias value="0.1" />
+   <fInnerConeAngle value="0" />
+   <fExponentialFallOff value="1" />
+   <fShadowBlur value="0" />
+   <iLightType value="2" />
+   <iLightProperty value="0" />
+   <TextureDictID value="0" />
+   <TextureKey value="0" />
+   <uLightFlags value="1" />
+   <uHourFlags value="15728703" />
+   <bStatic value="false" />
+  </Item>
+ </pCutsceneObjects>
+ <pCutsceneLoadEventList>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="0" />
+   <iEventArgsIndex value="1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="0" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="10" />
+   <iEventArgsIndex value="2" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="0" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="2" />
+   <iEventArgsIndex value="3" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="4" />
+   <iEventArgsIndex value="8" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="3" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="6" />
+   <iEventArgsIndex value="24" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="0" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="7" />
+   <iEventArgsIndex value="25" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="0" />
+  </Item>
+ </pCutsceneLoadEventList>
+ <pCutsceneEventList>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="4" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="28" />
+   <iEventArgsIndex value="9" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="3" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="11" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="12" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="13" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="14" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="15" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="16" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="22" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="18" />
+   <iEventArgsIndex value="0" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="9" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="43" />
+   <iEventArgsIndex value="5" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="2" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="22" />
+   <iEventArgsIndex value="10" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="26" />
+   <pChildEvents />
+   <StickyId value="-1785983153" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="27" />
+   <pChildEvents />
+   <StickyId value="-1785983153" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="28" />
+   <pChildEvents />
+   <StickyId value="-1785983153" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="29" />
+   <pChildEvents />
+   <StickyId value="1062370909" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="30" />
+   <pChildEvents />
+   <StickyId value="1062370909" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="31" />
+   <pChildEvents />
+   <StickyId value="1062370909" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="32" />
+   <pChildEvents />
+   <StickyId value="1448806068" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="33" />
+   <pChildEvents />
+   <StickyId value="1448806068" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="34" />
+   <pChildEvents />
+   <StickyId value="1448806068" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="35" />
+   <pChildEvents />
+   <StickyId value="1990164437" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="36" />
+   <pChildEvents />
+   <StickyId value="1990164437" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="37" />
+   <pChildEvents />
+   <StickyId value="1990164437" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="38" />
+   <pChildEvents />
+   <StickyId value="-1838859895" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="39" />
+   <pChildEvents />
+   <StickyId value="-1838859895" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="40" />
+   <pChildEvents />
+   <StickyId value="-1838859895" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="41" />
+   <pChildEvents />
+   <StickyId value="2140966617" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="42" />
+   <pChildEvents />
+   <StickyId value="2140966617" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="43" />
+   <pChildEvents />
+   <StickyId value="2140966617" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="44" />
+   <pChildEvents />
+   <StickyId value="1742289503" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="45" />
+   <pChildEvents />
+   <StickyId value="1742289503" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="46" />
+   <pChildEvents />
+   <StickyId value="743504768" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="47" />
+   <pChildEvents />
+   <StickyId value="743504768" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="48" />
+   <pChildEvents />
+   <StickyId value="1506782141" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="49" />
+   <pChildEvents />
+   <StickyId value="1506782141" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="50" />
+   <pChildEvents />
+   <StickyId value="594593858" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="51" />
+   <pChildEvents />
+   <StickyId value="594593858" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="52" />
+   <pChildEvents />
+   <StickyId value="594593858" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="59" />
+   <pChildEvents />
+   <StickyId value="562915176" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="60" />
+   <pChildEvents />
+   <StickyId value="562915176" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="61" />
+   <pChildEvents />
+   <StickyId value="562915176" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="62" />
+   <pChildEvents />
+   <StickyId value="1649047816" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="63" />
+   <pChildEvents />
+   <StickyId value="1649047816" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="64" />
+   <pChildEvents />
+   <StickyId value="1376064499" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="65" />
+   <pChildEvents />
+   <StickyId value="18054773" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="66" />
+   <pChildEvents />
+   <StickyId value="-1785983153" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="67" />
+   <pChildEvents />
+   <StickyId value="1062370909" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="68" />
+   <pChildEvents />
+   <StickyId value="1448806068" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="69" />
+   <pChildEvents />
+   <StickyId value="1990164437" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="70" />
+   <pChildEvents />
+   <StickyId value="-1838859895" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="71" />
+   <pChildEvents />
+   <StickyId value="2140966617" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="72" />
+   <pChildEvents />
+   <StickyId value="1742289503" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="73" />
+   <pChildEvents />
+   <StickyId value="743504768" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="74" />
+   <pChildEvents />
+   <StickyId value="1506782141" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="75" />
+   <pChildEvents />
+   <StickyId value="594593858" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="78" />
+   <pChildEvents />
+   <StickyId value="562915176" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="79" />
+   <pChildEvents />
+   <StickyId value="712801212" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="76" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="1649047816" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="76" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="712801212" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="18" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="19" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="20" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="21" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="0" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="22" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="18" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="19" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="20" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="21" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="22" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="23" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="24" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="25" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="26" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="27" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.349998" />
+   <iEventId value="43" />
+   <iEventArgsIndex value="6" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="2" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.366665" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="53" />
+   <pChildEvents />
+   <StickyId value="413351098" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.366665" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="54" />
+   <pChildEvents />
+   <StickyId value="413351098" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.366665" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="55" />
+   <pChildEvents />
+   <StickyId value="413351098" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="4.366665" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="76" />
+   <pChildEvents />
+   <StickyId value="413351098" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="6.533333" />
+   <iEventId value="26" />
+   <iEventArgsIndex value="17" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="12" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="7.333332" />
+   <iEventId value="27" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="12" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="7.333332" />
+   <iEventId value="26" />
+   <iEventArgsIndex value="18" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="13" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="7.666664" />
+   <iEventId value="27" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="13" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="7.666664" />
+   <iEventId value="26" />
+   <iEventArgsIndex value="19" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="14" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="8" />
+   <iEventId value="27" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="14" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="8" />
+   <iEventId value="26" />
+   <iEventArgsIndex value="20" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="15" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="9" />
+   <iEventId value="27" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="15" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="9" />
+   <iEventId value="26" />
+   <iEventArgsIndex value="21" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="16" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1666641" />
+   <iEventId value="27" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="16" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="23" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="24" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="25" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="26" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="27" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="28" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="29" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="20" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="21" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="74" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="22" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.1833344" />
+   <iEventId value="43" />
+   <iEventArgsIndex value="7" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="2" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.2000008" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="56" />
+   <pChildEvents />
+   <StickyId value="15956549" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.2000008" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="57" />
+   <pChildEvents />
+   <StickyId value="15956549" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.2000008" />
+   <iEventId value="54" />
+   <iEventArgsIndex value="58" />
+   <pChildEvents />
+   <StickyId value="15956549" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="10.2000008" />
+   <iEventId value="73" />
+   <iEventArgsIndex value="77" />
+   <pChildEvents />
+   <StickyId value="15956549" />
+   <IsChild value="true" />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="4" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="29" />
+   <iEventArgsIndex value="9" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="3" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="10" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="11" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="12" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="13" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="14" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="15" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="16" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="23" />
+   <iEventArgsIndex value="22" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="1" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="28" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="29" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="20" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="21" />
+  </Item>
+  <Item type="rage__cutfObjectIdEvent">
+   <fTime value="14.7999992" />
+   <iEventId value="75" />
+   <iEventArgsIndex value="-1" />
+   <pChildEvents />
+   <StickyId value="0" />
+   <IsChild value="false" />
+   <iObjectId value="22" />
+  </Item>
+ </pCutsceneEventList>
+ <pCutsceneEventArgsList>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="9" />
+  </Item>
+  <Item type="rage__cutfLoadSceneEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName />
+   <vOffset x="-1026.69" y="643.12" z="140.28" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+  </Item>
+  <Item type="rage__cutfObjectIdListEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectIdList>12 13 14 15 16</iObjectIdList>
+  </Item>
+  <Item type="rage__cutfNameEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_1715CBB7</cName>
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="2" />
+  </Item>
+  <Item type="rage__cutfCameraCutEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_2370C842</cName>
+   <vPosition x="11.6600561" y="18.0299454" z="-13.7649431" />
+   <vRotationQuaternion x="0.318101" y="0.361915" z="-0.132921" w="0.866118" />
+   <fNearDrawDistance value="0.15" />
+   <fFarDrawDistance value="150" />
+   <fMapLodScale value="1.2" />
+   <ReflectionLodRangeStart value="-1" />
+   <ReflectionLodRangeEnd value="-1" />
+   <ReflectionSLodRangeStart value="-1" />
+   <ReflectionSLodRangeEnd value="-1" />
+   <LodMultHD value="-1" />
+   <LodMultOrphanedHD value="-1" />
+   <LodMultLod value="-1" />
+   <LodMultSLod1 value="-1" />
+   <LodMultSLod2 value="-1" />
+   <LodMultSLod3 value="-1" />
+   <LodMultSLod4 value="-1" />
+   <WaterReflectionFarClip value="-1" />
+   <SSAOLightInten value="-1" />
+   <ExposurePush value="0" />
+   <LightFadeDistanceMult value="1" />
+   <LightShadowFadeDistanceMult value="1" />
+   <LightSpecularFadeDistMult value="1" />
+   <LightVolumetricFadeDistanceMult value="1" />
+   <DirectionalLightMultiplier value="-1" />
+   <LensArtefactMultiplier value="-1" />
+   <BloomMax value="-1" />
+   <DisableHighQualityDof value="false" />
+   <FreezeReflectionMap value="false" />
+   <DisableDirectionalLighting value="false" />
+   <AbsoluteIntensityEnabled value="false" />
+   <CharacterLight>
+    <bUseTimeCycleValues value="false" />
+    <vDirection x="0" y="1" z="0" />
+    <vColour x="0" y="0" z="0" />
+    <fIntensity value="0" />
+   </CharacterLight>
+   <TimeOfDayDofModifers itemType="rage__cutfCameraCutTimeOfDayDofModifier" />
+  </Item>
+  <Item type="rage__cutfCameraCutEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_18A33CBA</cName>
+   <vPosition x="11.6600561" y="18.0299454" z="-13.7649431" />
+   <vRotationQuaternion x="0.318101" y="0.361915" z="-0.132921" w="0.866118" />
+   <fNearDrawDistance value="0.15" />
+   <fFarDrawDistance value="250" />
+   <fMapLodScale value="1.2" />
+   <ReflectionLodRangeStart value="-1" />
+   <ReflectionLodRangeEnd value="-1" />
+   <ReflectionSLodRangeStart value="-1" />
+   <ReflectionSLodRangeEnd value="-1" />
+   <LodMultHD value="-1" />
+   <LodMultOrphanedHD value="-1" />
+   <LodMultLod value="-1" />
+   <LodMultSLod1 value="-1" />
+   <LodMultSLod2 value="-1" />
+   <LodMultSLod3 value="-1" />
+   <LodMultSLod4 value="-1" />
+   <WaterReflectionFarClip value="-1" />
+   <SSAOLightInten value="-1" />
+   <ExposurePush value="0" />
+   <LightFadeDistanceMult value="1" />
+   <LightShadowFadeDistanceMult value="1" />
+   <LightSpecularFadeDistMult value="1" />
+   <LightVolumetricFadeDistanceMult value="1" />
+   <DirectionalLightMultiplier value="-1" />
+   <LensArtefactMultiplier value="-1" />
+   <BloomMax value="-1" />
+   <DisableHighQualityDof value="false" />
+   <FreezeReflectionMap value="false" />
+   <DisableDirectionalLighting value="false" />
+   <AbsoluteIntensityEnabled value="false" />
+   <CharacterLight>
+    <bUseTimeCycleValues value="false" />
+    <vDirection x="0" y="1" z="0" />
+    <vColour x="0" y="0" z="0" />
+    <fIntensity value="0" />
+   </CharacterLight>
+   <TimeOfDayDofModifers itemType="rage__cutfCameraCutTimeOfDayDofModifier" />
+  </Item>
+  <Item type="rage__cutfCameraCutEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>hash_00F37A45</cName>
+   <vPosition x="14.6446667" y="15.8649616" z="-11.8620625" />
+   <vRotationQuaternion x="0.09598" y="0.710224" z="0.09874" w="-0.690376" />
+   <fNearDrawDistance value="0.15" />
+   <fFarDrawDistance value="150" />
+   <fMapLodScale value="1.2" />
+   <ReflectionLodRangeStart value="-1" />
+   <ReflectionLodRangeEnd value="-1" />
+   <ReflectionSLodRangeStart value="-1" />
+   <ReflectionSLodRangeEnd value="-1" />
+   <LodMultHD value="-1" />
+   <LodMultOrphanedHD value="-1" />
+   <LodMultLod value="-1" />
+   <LodMultSLod1 value="-1" />
+   <LodMultSLod2 value="-1" />
+   <LodMultSLod3 value="-1" />
+   <LodMultSLod4 value="-1" />
+   <WaterReflectionFarClip value="-1" />
+   <SSAOLightInten value="-1" />
+   <ExposurePush value="0" />
+   <LightFadeDistanceMult value="1" />
+   <LightShadowFadeDistanceMult value="1" />
+   <LightSpecularFadeDistMult value="1" />
+   <LightVolumetricFadeDistanceMult value="1" />
+   <DirectionalLightMultiplier value="-1" />
+   <LensArtefactMultiplier value="-1" />
+   <BloomMax value="-1" />
+   <DisableHighQualityDof value="false" />
+   <FreezeReflectionMap value="false" />
+   <DisableDirectionalLighting value="false" />
+   <AbsoluteIntensityEnabled value="false" />
+   <CharacterLight>
+    <bUseTimeCycleValues value="false" />
+    <vDirection x="0" y="1" z="0" />
+    <vColour x="0" y="0" z="0" />
+    <fIntensity value="0" />
+   </CharacterLight>
+   <TimeOfDayDofModifers itemType="rage__cutfCameraCutTimeOfDayDofModifier" />
+  </Item>
+  <Item type="rage__cutfNameEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>fam_3_mcs_1_b</cName>
+  </Item>
+  <Item type="rage__cutfNameEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cName>fam_3_mcs_1_b</cName>
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="4" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="5" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="6" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="7" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="8" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="10" />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="11" />
+  </Item>
+  <Item type="rage__cutfEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+  </Item>
+  <Item type="rage__cutfObjectIdEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectId value="17" />
+  </Item>
+  <Item type="rage__cutfObjectIdListEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectIdList>4</iObjectIdList>
+  </Item>
+  <Item type="rage__cutfObjectIdListEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectIdList>4 5 6 7 8 10 17 11</iObjectIdList>
+  </Item>
+  <Item type="rage__cutfObjectIdListEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <iObjectIdList>4 5 6 7 8 10 17 11</iObjectIdList>
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_958C0F4F</cameraCutHashName>
+   <position x="-993.463" y="643.914" z="139.72" />
+   <radius value="0.9" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_958C0F4F</cameraCutHashName>
+   <position x="-995.282" y="642.403" z="139.75" />
+   <radius value="2" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_958C0F4F</cameraCutHashName>
+   <position x="-995.738" y="640.241" z="139.333" />
+   <radius value="3.5" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_3F527E5D</cameraCutHashName>
+   <position x="-995.329" y="644.899" z="139.804" />
+   <radius value="4.6" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_3F527E5D</cameraCutHashName>
+   <position x="-1013.945" y="655.142" z="156.231" />
+   <radius value="3.5" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_3F527E5D</cameraCutHashName>
+   <position x="-995.329" y="644.899" z="139.804" />
+   <radius value="17" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_565B06B4</cameraCutHashName>
+   <position x="-997.158" y="641.922" z="139.884" />
+   <radius value="1.3" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_565B06B4</cameraCutHashName>
+   <position x="-995.849" y="645.1" z="139.847" />
+   <radius value="2.4" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_565B06B4</cameraCutHashName>
+   <position x="-994.161" y="645.321" z="139.641" />
+   <radius value="17" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_769F7FD5</cameraCutHashName>
+   <position x="-997.158" y="641.922" z="139.884" />
+   <radius value="1.3" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_769F7FD5</cameraCutHashName>
+   <position x="-1014.036" y="655.152" z="156.203" />
+   <radius value="5.3" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_769F7FD5</cameraCutHashName>
+   <position x="-1014.036" y="655.152" z="156.203" />
+   <radius value="18" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_92653989</cameraCutHashName>
+   <position x="-1014.199" y="655.128" z="156.207" />
+   <radius value="1.1" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_92653989</cameraCutHashName>
+   <position x="-1014.199" y="655.128" z="156.207" />
+   <radius value="1.2" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_92653989</cameraCutHashName>
+   <position x="-1028.073" y="657.846" z="159.052" />
+   <radius value="11" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_7F9C8ED9</cameraCutHashName>
+   <position x="-997.215" y="641.73" z="139.889" />
+   <radius value="3" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_7F9C8ED9</cameraCutHashName>
+   <position x="-1013.976" y="655.177" z="156.208" />
+   <radius value="1.3" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_7F9C8ED9</cameraCutHashName>
+   <position x="-997.215" y="641.73" z="139.889" />
+   <radius value="12.4" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_67D93A5F</cameraCutHashName>
+   <position x="-997.267" y="641.854" z="139.873" />
+   <radius value="1.1" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_67D93A5F</cameraCutHashName>
+   <position x="-995.738" y="640.241" z="139.333" />
+   <radius value="4" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_2C50FB80</cameraCutHashName>
+   <position x="-1014.854" y="659.668" z="157.661" />
+   <radius value="8" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_2C50FB80</cameraCutHashName>
+   <position x="-1014.854" y="659.668" z="157.661" />
+   <radius value="20.5" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_59CFABBD</cameraCutHashName>
+   <position x="-1017.852" y="660.078" z="147.042" />
+   <radius value="1.5" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_59CFABBD</cameraCutHashName>
+   <position x="-1018.23" y="659.899" z="146.975" />
+   <radius value="5.6" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_2370C842</cameraCutHashName>
+   <position x="-1013.986" y="655.354" z="156.226" />
+   <radius value="1.1" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_2370C842</cameraCutHashName>
+   <position x="-997.318" y="641.905" z="139.846" />
+   <radius value="3.4" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_2370C842</cameraCutHashName>
+   <position x="-997.318" y="641.905" z="139.846" />
+   <radius value="12" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_18A33CBA</cameraCutHashName>
+   <position x="-1014.024" y="655.282" z="156.247" />
+   <radius value="1.3" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_18A33CBA</cameraCutHashName>
+   <position x="-1014.024" y="655.282" z="156.247" />
+   <radius value="1.2" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_18A33CBA</cameraCutHashName>
+   <position x="-1014.024" y="655.282" z="156.247" />
+   <radius value="23" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_00F37A45</cameraCutHashName>
+   <position x="-1013.933" y="655.32" z="156.258" />
+   <radius value="1.5" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_00F37A45</cameraCutHashName>
+   <position x="-997.301" y="641.921" z="139.824" />
+   <radius value="3.2" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_00F37A45</cameraCutHashName>
+   <position x="-997.301" y="641.921" z="139.824" />
+   <radius value="18" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_218D6768</cameraCutHashName>
+   <position x="-997.557" y="642.305" z="139.878" />
+   <radius value="1.4" />
+   <interpTime value="0" />
+   <cascadeIndex value="0" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_218D6768</cameraCutHashName>
+   <position x="-994.344" y="640.45" z="139.193" />
+   <radius value="3.4" />
+   <interpTime value="0" />
+   <cascadeIndex value="1" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfCascadeShadowEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <cameraCutHashName>hash_218D6768</cameraCutHashName>
+   <position x="-994.344" y="640.45" z="139.193" />
+   <radius value="14" />
+   <interpTime value="0" />
+   <cascadeIndex value="2" />
+   <enabled value="true" />
+   <interpolateToDisabled value="true" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="0.804199" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="0.771484" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="2.837891" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.817383" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.333008" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="3.130859" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.500977" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.056641" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.337891" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.885742" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.787109" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.825195" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="4.25" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.626953" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.337891" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="1.626953" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="2.675781" />
+  </Item>
+  <Item type="rage__cutfFloatValueEventArgs">
+   <attributeList>
+    <UserData1 value="0" />
+    <UserData2 value="0" />
+   </attributeList>
+   <cutfAttributes />
+   <fValue value="2.964844" />
+  </Item>
+ </pCutsceneEventArgsList>
+ <attributes>
+  <UserData1 value="0" />
+  <UserData2 value="0" />
+ </attributes>
+ <cutfAttributes />
+ <iRangeStart value="0" />
+ <iRangeEnd value="443" />
+ <iAltRangeEnd value="0" />
+ <fSectionByTimeSliceDuration value="4" />
+ <fFadeOutCutsceneDuration value="0.8" />
+ <fFadeInGameDuration value="0.8" />
+ <fadeInColor value="0xFF000000" />
+ <iBlendOutCutsceneDuration value="0" />
+ <iBlendOutCutsceneOffset value="0" />
+ <fFadeOutGameDuration value="0.8" />
+ <fFadeInCutsceneDuration value="0.8" />
+ <fadeOutColor value="0xFF000000" />
+ <DayCoCHours value="2097088" />
+ <cameraCutList />
+ <sectionSplitList />
+ <concatDataList itemType="rage__cutfCutsceneFile2__SConcatData">
+  <Item>
+   <cSceneName>hash_39F4169E</cSceneName>
+   <vOffset x="-1026.69" y="643.12" z="140.28" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="1438" />
+   <iRangeEnd value="1881" />
+   <bValidForPlayBack value="true" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+  <Item>
+   <cSceneName />
+   <vOffset x="0" y="0" z="0" />
+   <fStartTime value="0" />
+   <fRotation value="0" />
+   <fPitch value="0" />
+   <fRoll value="0" />
+   <iRangeStart value="0" />
+   <iRangeEnd value="0" />
+   <bValidForPlayBack value="false" />
+  </Item>
+ </concatDataList>
+ <discardFrameList itemType="vHaltFrequency">
+  <Item>
+   <cSceneName>hash_39F4169E</cSceneName>
+   <frames>1569 1586 1761 1790</frames>
+  </Item>
+ </discardFrameList>
+</rage__cutfCutsceneFile2>
